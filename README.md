@@ -45,7 +45,7 @@ In this project, we start by loading the **temperature/pressure data**. The data
 
 ```python
 # Load temperature and pressure data 
-Smeaheia_Norway_Temp_Pressure_data = pd.read_excel(r"C:\Users\Joy\OneDrive\Ambiente de Trabalho\CO2_Storage_Analysis\data\Smeaheia pressure and temperature .xlsx")
+Smeaheia_Norway_Temp_Pressure_data = pd.read_excel('data/Smeaheia pressure and temperature .xlsx')
 
 # Display the first few rows to check if the columns are selected properly
 Smeaheia_Norway_Temp_Pressure_data.head()
