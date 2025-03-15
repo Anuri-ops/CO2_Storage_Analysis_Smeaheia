@@ -17,7 +17,7 @@ The dataset used in this project has been extracted and converted into an Excel 
 
 #### How to Access the Dataset:
 - The dataset is available in this repository under the **`data/`** folder. You can download it directly by navigating to the folder.
-- **Dataset File**: `Smeaheia_Temperature_Pressure_Data.xlsx`
+- **Dataset File**: `Smeaheia temperature and pressure.xlsx`
 
 **Please note**: The dataset used in this project has been pre-processed and includes only the relevant columns for CO₂ injection analysis.
 
