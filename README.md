@@ -187,17 +187,9 @@ print(f"R-squared (R²): {r2}")
 
 ---
 
-## Conclusion and Next Steps
+## Conclusion 
 
 The analysis of CO₂ Injection Temperature and Pressure in the Smeaheia reservoir reveals the following trends:
 - **CO₂ Injection Temperature** increases with depth, which is important for CO₂ phase behavior and storage efficiency.
 - **Pressure** decreases with depth, which is important for understanding the reservoir's behavior during CO₂ injection.
 - Given the limited data (only 4 data points), machine learning models like linear regression were not effective. The results mainly provide descriptive insights rather than predictive models.
-
-**Next Steps:**
-1. **Integrate the Pressure Profile**: Combine this temperature analysis with pressure data to map out the pressure-temperature phase diagram of CO₂ in the reservoir.
-2. **Thermal-Mechanical Analysis**: Evaluate if injecting CO₂ (potentially cooler than formation temperature) could cause thermal stress or fractures in the wellbore vicinity.
-3. **Enhanced Reservoir Modeling**: Update the reservoir simulation models with the measured temperature gradient to improve CO₂ plume migration, trapping mechanisms, and capacity predictions.
-
-
-
