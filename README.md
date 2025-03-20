@@ -3,12 +3,6 @@
 ## Introduction
 This project aims to analyze **CO₂ Injection Temperature** and **Pressure** in the **Smeaheia reservoir**, examining how these parameters vary with **depth** and how they influence the **effectiveness of CO₂ storage**. Understanding the thermal behavior of the reservoir is crucial for optimizing the CO₂ injection process and assessing the long-term sustainability of CO₂ storage. This project focuses on temperature gradients, pressure trends, and their relationship with depth.
 
-## Dataset Information
-The dataset used in this analysis provides temperature and pressure data at various depths in the **Smeaheia reservoir**. The data includes:
-- **CO₂ Injection Temperature** (°C)
-- **Pressure** (bar)
-- **Depth** (m)
-  
 ### Data License
 - The datasets used in this project are made available under **[Smeaheia Dataset License](https://co2datashare.org/smeaheia-dataset/static/SMEAHEIA%20DATASET%20LICENSE_Gassnova%20and%20Equinor.pdf)** by **Equinor** and **Gassnova**. You can use the data for research and non-commercial purposes while providing appropriate credit.
 
