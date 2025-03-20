@@ -10,6 +10,9 @@ The dataset used in this analysis provides temperature and pressure data at vari
 - **Depth** (m)
 
 These data points were sourced from **Equinor** and **Gassnova** for CO₂ storage analysis in the Smeaheia reservoir.
+  
+### Data License
+- The datasets used in this project are made available under **[Smeaheia Dataset License](https://co2datashare.org/smeaheia-dataset/static/SMEAHEIA%20DATASET%20LICENSE_Gassnova%20and%20Equinor.pdf)** by **Equinor** and **Gassnova**. You can use the data for research and non-commercial purposes while providing appropriate credit.
 
 ### Dataset Access
 
@@ -18,10 +21,7 @@ The dataset used in this project has been extracted and converted into an Excel 
 #### How to Access the Dataset:
 - The dataset is available in this repository under the **`data/`** folder. You can download it directly by navigating to the folder.
 - **Dataset File**: `Smeaheia temperature and pressure.xlsx`
-
-**Please note**: The dataset used in this project has been pre-processed and includes only the relevant columns for CO₂ injection analysis.
-
-You can use this file to replicate the analysis and continue working with the data. For proper usage, make sure to give appropriate credit to **Equinor** and **Gassnova** as per the licensing terms.
+--- 
 
 ---
 
