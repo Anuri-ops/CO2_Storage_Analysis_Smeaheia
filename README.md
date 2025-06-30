@@ -67,9 +67,9 @@ plt.xlabel('Depth (m)')
 plt.ylabel('CO₂ Injection Temperature (°C)')
 plt.grid(True)
 plt.show()
+```
 
 ![CO₂ Injection Temperature vs Depth](images/temp_vs_depth.png)
-```
 
 ### Visualize Pressure vs Depth using a line plot
 
