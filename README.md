@@ -67,6 +67,8 @@ plt.xlabel('Depth (m)')
 plt.ylabel('CO₂ Injection Temperature (°C)')
 plt.grid(True)
 plt.show()
+
+![CO₂ Injection Temperature vs Depth](images/temp_vs_depth.png)
 ```
 
 ### Visualize Pressure vs Depth using a line plot
@@ -82,6 +84,8 @@ plt.xlabel('Depth (m)')
 plt.ylabel('Pressure (bar)')
 plt.grid(True)
 plt.show()
+
+![Pressure vs Depth](images/pressure_vs_depth.png)
 ```
 
 ### Temperature Gradient Analysis
@@ -100,6 +104,8 @@ plt.xlabel('Depth (m)')
 plt.ylabel('Temperature Gradient (°C/m)')
 plt.grid(True)
 plt.show()
+
+![Temperature Gradient vs Depth](images/temp_gradient.png)
 ```
 
 ### Scatter plot of CO₂ Injection Temperature vs Pressure
@@ -115,6 +121,8 @@ plt.xlabel('CO₂ Injection Temperature (°C)')
 plt.ylabel('Pressure (bar)')
 plt.grid(True)
 plt.show()
+
+![CO₂ Injection Temperature vs Pressure](images/temp_vs_pressure_scatter.png)
 
 # Calculate Pearson Correlation Coefficient between Temperature and Pressure
 correlation = Smeaheia_Norway_Temp_Pressure_data['CO₂ Injection T  (°C)'].corr(Smeaheia_Norway_Temp_Pressure_data['Pressure (bar)\t']))
