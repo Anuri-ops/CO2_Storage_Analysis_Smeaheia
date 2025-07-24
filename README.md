@@ -1,7 +1,7 @@
 # CO₂ Injection Temperature Analysis in Geological Formations (Smeaheia Reservoir)
 
 ## Introduction
-**This project** aims to analyze **CO₂ Injection Temperature** and **Pressure** in the **Smeaheia reservoir**, examining how these parameters vary with **depth** and how they influence the **effectiveness of CO₂ storage**. Understanding the thermal behavior of the reservoir is crucial for optimizing the CO₂ injection process and assessing the long-term sustainability of CO₂ storage. This project focuses on temperature gradients, pressure trends, and their relationship with depth.**
+This project aims to analyze **CO₂ Injection Temperature** and **Pressure** in the **Smeaheia reservoir**, examining how these parameters vary with **depth** and how they influence the **effectiveness of CO₂ storage**. Understanding the thermal behavior of the reservoir is crucial for optimizing the CO₂ injection process and assessing the long-term sustainability of CO₂ storage. This project focuses on temperature gradients, pressure trends, and their relationship with depth.**
 ---**
 
 ### Data License
